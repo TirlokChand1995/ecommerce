@@ -1,0 +1,110 @@
+{
+    "ID" : 1,
+    "Seller":"Haier",
+    "Name" : "Air Conditioner",
+    "Colour":"White",
+    "Price":25899,
+    "Image":"./images/ac1.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 2,
+    "Seller":"Philips",
+    "Name" : "Air Cooler",
+    "Colour":"Grey",
+    "Price":5899,
+    "Image":"./images/cooler.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 3,
+    "Seller":"Nikon",
+    "Name" : "Camera",
+    "Colour":"Black",
+    "Price":20799,
+    "Image":"./images/camera.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 4,
+    "Seller":"HP",
+    "Name" : "Computer Desktop Pc",
+    "Colour":"Jet Black",
+    "Price":150490,
+    "Image":"./images/computer-pc.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 5,
+    "Seller":"Ramson",
+    "Name" : "Women Dress",
+    "Colour":"Red",
+    "Price":399,
+    "Image":"./images/dress.png",
+    "ImageUrl":"",
+    "Delivery":"Rs 40.0 Delivery Charge"
+},
+{
+    "ID" : 6,
+    "Seller":"Ramson",
+    "Name" : "Flowered Women Dress",
+    "Colour":"Pink",
+    "Price":499,
+    "Image":"./images/floral-dress.png",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 7,
+    "Seller":"Adibas",
+    "Name" : "Baseball Cap",
+    "Colour":"Black",
+    "Price":899,
+    "Image":"./images/baseball-cap.png",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 8,
+    "Seller":"Sony",
+    "Name" : "Headphone",
+    "Colour":"Blue",
+    "Price":5890,
+    "Image":"./images/headphone.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 9,
+    "Seller":"Samsung",
+    "Name" : "Samsung Mobile",
+    "Colour":"Sunrise Copper",
+    "Price":9499,
+    "Image":"./images/samsung-mobile.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 10,
+    "Seller":"ShiyaRam",
+    "Name" : "Men's Shirt",
+    "Colour":"Blue",
+    "Price":749,
+    "Image":"./images/blue-shirt.png",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+},
+{
+    "ID" : 11,
+    "Seller":"Shiyaram",
+    "Name" : "Flower Dress",
+    "Colour":"Red",
+    "Price":849,
+    "Image":"./images/flower-dress.jpeg",
+    "ImageUrl":"",
+    "Delivery":"Free Delivery"
+}
