@@ -1,4 +1,6 @@
-[
+
+export const Products=
+    [
 {
     "ID" : 1,
     "Seller":"Haier",
